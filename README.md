@@ -27,5 +27,8 @@ A B C D ...
 3. Put the file into src/test/input
 4. Restart your program and your test file will be inserted in the next instantiation of program  
 
+# Testing
+![test5](image.png)
+
 # Author
 Brian A. Hadian (13523048)

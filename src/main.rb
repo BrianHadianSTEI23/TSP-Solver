@@ -35,7 +35,7 @@ def main()
     # receive input source node
     puts "Type in your home and destination node (must be the same) : "
     source_node = STDIN.gets.chomp
-    while Float(source_node, exception:false) || Integer(source_node, exception: false) || nodes.include?(source_node)
+    while Float(source_node, exception:false) || Integer(source_node, exception: false) || !nodes.include?(source_node)
         puts "Wrong type. Please try again"
         source_node = STDIN.gets.chomp
     end
