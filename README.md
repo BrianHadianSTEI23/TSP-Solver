@@ -29,6 +29,8 @@ A B C D ...
 
 # Testing
 ![test5](image.png)
+![test1](image-1.png)
+![test4](image-2.png)
 
 # Author
 Brian A. Hadian (13523048)
