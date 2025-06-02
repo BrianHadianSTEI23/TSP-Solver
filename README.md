@@ -21,7 +21,7 @@ A B C D ...
 8 5 4 0 ...  
 . . . .  
 . . . .  
-> A B C D ... is your nodes
+> A B C D ... is your nodes  
 > 0 1 9 8 ... is your edge weight
 2. Insert it into .txt file
 3. Put the file into src/test/input
