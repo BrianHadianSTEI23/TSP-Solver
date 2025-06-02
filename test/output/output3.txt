@@ -1,0 +1,11 @@
+Traveling Salesman Problem Solver
+A B C D
+0 3 8 5
+3 0 6 2
+8 6 0 4
+5 2 4 0
+Type in your home and destination node (must be the same) : 
+D
+Your ways are : 
+D->B->A->C->D (17)
+D->C->A->B->D (17)

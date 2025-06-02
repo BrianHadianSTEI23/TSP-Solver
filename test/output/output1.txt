@@ -1,0 +1,10 @@
+A B C D
+0 1 9 8
+1 0 2 5
+9 2 0 4
+8 5 4 0
+Type in your home and destination node (must be the same) : 
+B
+Your ways are : 
+B->A->D->C->B (15)
+B->C->D->A->B (15)
